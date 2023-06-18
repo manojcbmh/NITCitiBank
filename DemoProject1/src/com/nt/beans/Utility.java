@@ -7,8 +7,8 @@ public class Utility {
 	public void getSysDate()
 	{
 		System.out.println(new Date());
-		
-		Utility u = new Utility();
+
+		System.out.println("In utility class method --> TL for conflicts it was added");
 	}
 
 }

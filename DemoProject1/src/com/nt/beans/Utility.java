@@ -8,7 +8,7 @@ public class Utility {
 	{
 		System.out.println(new Date());
 		
-		System.out.println("In utility class method --> Dev1");
+		Utility u = new Utility();
 	}
 
 }

@@ -20,4 +20,9 @@ public class Utility {
 		System.out.println("In F1 method");
 	}
 
+	
+	public void f2()
+	{
+		System.out.println("In F2 method");
+	}
 }

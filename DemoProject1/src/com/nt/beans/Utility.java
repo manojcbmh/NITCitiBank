@@ -9,6 +9,8 @@ public class Utility {
 		System.out.println(new Date());
 
 		System.out.println("In utility class method --> TL for conflicts it was added");
+		
+		Utility u = new Utility();
 	}
 
 }

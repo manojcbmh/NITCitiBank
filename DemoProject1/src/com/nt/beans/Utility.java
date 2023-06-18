@@ -41,7 +41,6 @@ public class Utility {
 	public void f4()
 	{
 		System.out.println("In F4 method");
-
 	}
 
 }

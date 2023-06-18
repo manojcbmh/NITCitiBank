@@ -31,9 +31,15 @@ public class Utility {
 		System.out.println("In F3 method");
 	}
 	
+
 	public void f5()
 	{
 		System.out.println("In F5 method");
+	}
+
+	public void f4()
+	{
+		System.out.println("In F4 method");
 	}
 
 }
